@@ -6,26 +6,26 @@
 .navbar{
 
 border: none;
-background-color: black;
-color: #61122F;
+background-color: #3A3845;
+color: #ac5a3a;
 }
 body{
-	background-color: #61122F;
+	background-color: #F7CCAC;
 	color: white;
 }
 .glyphicon{
 	font-size: 30px;
-	color:#61122F; 
+	color:#C69B7B; 
 }
 
 .center{
 	width: 90%;
-	background-color: grey;
+	background-color: #C69B7B;
 
 }
 .container
 {
-	background-color: grey;
+	background-color: rgb(179, 122, 68);
 }
 .text-center{
 	font-size: 30px;
@@ -33,9 +33,10 @@ body{
 
 h2{
 	text-align: center;
+	color: #3A3845;
 }
 #myNavbar ul li a {
-	color: #61122F;
+	color: #C69B7B;
 }
 .navbar-brand{
 font-size: 30px;	
